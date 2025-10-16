@@ -21,8 +21,9 @@ conditional statements, loops, and object-oriented concepts.
 ───────────────────────────────────────────────
           <h2> Project Output </h2>
 ───────────────────────────────────────────────
+
 <insert image of your project output here>  
-🖼️ [Place your screenshot or result here]
+<img src=".src/BDO-ATM.jfif" alt="BDO ATM Console" width="500">
 
 ───────────────────────────────────────────────
           <h2> Conclusion </h2>

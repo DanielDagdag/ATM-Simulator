@@ -1,5 +1,5 @@
 <h1> ATM Console Project </h1>
-───────────────────────────────────────────────
+---
 
 <font size="4"><b>Introduction:</b></font>  
 The ATM Console Project is a simulation of a real Automated Teller Machine (ATM)  
